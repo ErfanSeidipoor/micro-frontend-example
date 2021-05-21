@@ -101,9 +101,9 @@ export default function Album() {
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link to="/dashboard">
+                  <Link to="/pricing">
                     <Button variant="outlined" color="primary">
-                      Dashboard
+                      Pricing
                     </Button>
                   </Link>
                 </Grid>
@@ -128,7 +128,7 @@ export default function Album() {
                     </Typography>
                     <Typography>
                       This is a media card. You can use this section to describe
-                      the content.
+                      the content!
                     </Typography>
                   </CardContent>
                   <CardActions>
